@@ -1,12 +1,26 @@
 {
   "name": "query_string_parser",
   "version": "1.0.0",
-  "description": "",
+  "description": "Quickly parse your querystring to json.",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
     "start": "node index.js"
   },
+  "keywords": [
+    "query",
+    "parser",
+    "JSON",
+    "URL",
+    "queryParser"
+  ],
   "author": "Saleh Shirvani",
-  "license": "ISC"
+  "license": "ISC",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/saleh-sh/query_string_parser.git"
+  },
+  "bugs": {
+    "url": "https://github.com/saleh-sh/query_string_parser/issues"
+  }
 }
