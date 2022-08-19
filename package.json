@@ -22,5 +22,6 @@
   },
   "bugs": {
     "url": "https://github.com/saleh-sh/query_string_parser/issues"
-  }
+  },
+  "homepage": "https://github.com/saleh-sh/query_string_parser/blob/main/README.md"
 }
