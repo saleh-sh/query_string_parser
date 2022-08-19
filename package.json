@@ -1,5 +1,5 @@
 {
-  "name": "query_string_parser",
+  "name": "saleh_query_parser",
   "version": "1.0.0",
   "description": "Quickly parse your querystring to json.",
   "main": "index.js",
